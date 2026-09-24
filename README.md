@@ -37,4 +37,4 @@ Notebook ini terbagi menjadi dua bagian utama:
 
 1. Clone repositori ini:
    ```bash
-   git clone [https://github.com/USERNAME_KAMU/NAMA_REPOSITORI.git](https://github.com/USERNAME_KAMU/NAMA_REPOSITORI.git)
+   git clone [https://github.com/ichameisyak-sudo/Web-Scraping.git](https://github.com/ichameisyak-sudo/Web-Scraping.git)
